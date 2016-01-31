@@ -1,6 +1,6 @@
 # Quanta / Nokia Airframe / SuperMicro(?)
 
-python-reequest requried : <BR>
+python-requests requried : <BR>
 rpm -qa | grep python-requests || yum -y install python-requests<BR>
 <BR>
 Sample:<BR>
